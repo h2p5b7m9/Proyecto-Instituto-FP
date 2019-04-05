@@ -1,0 +1,23 @@
+controlUF2_AC02.php
+controlProyectoInstitutoAsistencias.php
+tterminales.php --> tAsistencias.php
+lista
+ListadoModelos --> ListaAsistencias
+listar_modelos --> listarAsistencias
+
+homeUF2_AC02.php --> homeProyectoInstitutoAsistencias.php
+Fecha de lanzamiento --> Fecha de clase
+fecha_lanzamiento --> Fecha_Clase
+
+
+CREATE TABLE terminales (                             CREATE TABLE Asistencias (
+  id int(11)                                            id_Asistencia INT(11) NOT NULL,
+  modelo varchar(30) COLLATE latin1_general_ci          fecha_Clase DATE NOT NULL,
+  nombre varchar(30) COLLATE latin1_general_ci          id_Alumno INT(11) NOT NULL,
+  fecha_lanzamiento date                                id_UF INT(11) NOT NULL,
+  descripcion varchar(100) COLLATE latin1_general_ci    justificante BOOLEAN NOT NULL,
+  precio int(11)                                        fecha_ultima_actualizacion TIMESTAMP
+  fotografia varchar(20) COLLATE latin1_general_ci      fotografia varchar(20) COLLATE latin1_general_ci
+                                                        descripcion
+                                                        nombreAlumno
+Modelos de terminales móviles Apple
