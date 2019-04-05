@@ -1,0 +1,45 @@
+/* Estilos
+Ver AC4 - Diseño web - Estilos.docx
+Usado por ProyectoProfesores_01.php
+OJO style estilo CSS: div id= # ampersand  vs  class . punto
+Ver xml 21.xml
+Ver XML-CSS.docx.xml
+*/
+.body_1 {
+  background-color: lightblue;
+}
+.h_5 {
+   font-family: Arial, Helvetica, sans-serif; /* Si no está la fuente Arial, el sª cogerá Helvetica */
+   text-decoration: underline; /* underline Subrayado , none elimina subrayado , overline Subrayado encima en lugar de debajo , line-through tachado */
+   font-weight: bold; /* Negrita */
+   text-align: center;
+}
+.color_azul {
+   color: blue;
+}
+.color_verde {
+   color: green;
+}
+.color_marron {
+   color: brown;
+}
+.color_rojo {
+   color: red;
+}
+.color_purpura {
+   color: purple;
+}
+.color_marfil { /* marfil */
+   color: #f7f2dc;
+}
+#font_size_1 {
+   font-size: 99%; /* font-size 200% Duplica el tamaño , tamaño relativo */
+}
+#font_size_2 {
+   font-size: 110%; /* font-size 200% Duplica el tamaño , tamaño relativo */
+}
+
+input[type=text] {
+  background-color: #3CBC8D; /* verde-cian */
+  color: blue;
+}

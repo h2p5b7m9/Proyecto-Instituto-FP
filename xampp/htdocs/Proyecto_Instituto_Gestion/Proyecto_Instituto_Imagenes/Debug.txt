@@ -1,0 +1,54 @@
+index.php-001 - ENVIRONMENT = development
+index.php-002
+index.php-008- realpath(system_path) = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system
+index.php-009 - system_path = system
+index.php-010 - system_path = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system/
+index.php-999
+index.php-001 - ENVIRONMENT = development
+index.php-002
+index.php-008- realpath(system_path) = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system
+index.php-009 - system_path = system
+index.php-010 - system_path = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system/
+index.php-999
+index.php-001 - ENVIRONMENT = development
+index.php-002
+index.php-008- realpath(system_path) = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system
+index.php-009 - system_path = system
+index.php-010 - system_path = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system/
+index.php-999
+index.php-001 - ENVIRONMENT = development
+index.php-002
+index.php-008- realpath(system_path) = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system
+index.php-009 - system_path = system
+index.php-010 - system_path = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system/
+index.php-999
+index.php-001 - ENVIRONMENT = development
+index.php-002
+index.php-008- realpath(system_path) = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system
+index.php-009 - system_path = system
+index.php-010 - system_path = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system/
+index.php-999
+index.php-001 - ENVIRONMENT = development
+index.php-002
+index.php-008- realpath(system_path) = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system
+index.php-009 - system_path = system
+index.php-010 - system_path = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system/
+index.php-999
+index.php-001 - ENVIRONMENT = development
+index.php-002
+index.php-008- realpath(system_path) = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system
+index.php-009 - system_path = system
+index.php-010 - system_path = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system/
+index.php-999
+index.php-001 - ENVIRONMENT = development
+index.php-002
+index.php-008- realpath(system_path) = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system
+index.php-009 - system_path = system
+index.php-010 - system_path = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system/
+index.php-999
+index.php-001 - ENVIRONMENT = development
+index.php-002
+index.php-008- realpath(system_path) = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system
+index.php-009 - system_path = system
+index.php-010 - system_path = /home/vol9_6/260mb.net/n260m_23566769/htdocs/CI/system/
+index.php-999
